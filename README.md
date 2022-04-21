@@ -1,6 +1,5 @@
 
-
-
+![Animation](https://user-images.githubusercontent.com/82046540/162592033-02bb3d3c-a540-49b4-af4d-99a69d25ddac.gif)
 ## Available Scripts
 
 In the project directory, you can run:
